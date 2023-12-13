@@ -5,4 +5,4 @@
 - 👀 I’m interested in the data world, learning about the engineering and analytics
 - 🌱 I have completed the Data Analytics Boot Camp at the Ironhack school, I also have several certifications.
 - 💞️ I’m looking to collaborate on any project that help to improve my skills
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/joaquín-villaverde-roldán-4b9803230)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/joaquín-villaverde-roldán-4b9803230)
